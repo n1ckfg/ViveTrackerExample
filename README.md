@@ -13,7 +13,10 @@
 "forcedDriver" : "null",
 "activateMultipleDrivers" : true,</pre>
 	</li>
-	<li>
+	<li><b>Note: when you want to restore normal operation of your Vive rig, change the following in global settings:</b>
+		<pre>
+"forcedDriver" : "",</pre>
+	</li>
 	<li>Then, in your file manager, go to the null driver settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings</i></li>
 	<li>
@@ -21,9 +24,6 @@
 		<pre>
 "enable" : true,</pre>
 	</li>
-	<li><b>Note: when you want to restore normal operation of your Vive rig, change the following in global settings:</b>
-		<pre>
-"forcedDriver" : "",</pre>
 	<li>Restart SteamVR.</li>
 	<li>If SteamVR complains about Room Setup, go to:<br>
 	<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i></li>
