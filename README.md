@@ -6,31 +6,30 @@
 	<li>
 		Open default.vrsettings in a text editor and set the following:
 		<pre>
-			"requireHmd": false
-			"forcedDriver": "null"
-			"activateMultipleDrivers": true
+"requireHmd" : false
+"forcedDriver" : "null"
+"activateMultipleDrivers" : true
 		</pre>
 	</li>
 	<li>
 		Then add the following to the end (don't forget the comma on the preceding line!):
 		<pre>
-			,
-			{
-				"driver_null" : {
-					"enable" : true,
-					"serialNumber" : "Null Serial Number", 
-					"modelNumber" : "Null Model Number",
-					"windowX" : 0,
-					"windowY" : 0,
-					"windowWidth" : 2160,
-					"windowHeight" : 1200,
-					"renderWidth" : 1512,
-					"renderHeight" : 1680,
-					"secondsFromVsyncToPhotons" : 0.01111111,
-					"displayFrequency" : 90.0
-				}
-			}
-
+,
+{
+	"driver_null" : {
+		"enable" : true,
+		"serialNumber" : "Null Serial Number", 
+		"modelNumber" : "Null Model Number",
+		"windowX" : 0,
+		"windowY" : 0,
+		"windowWidth" : 2160,
+		"windowHeight" : 1200,
+		"renderWidth" : 1512,
+		"renderHeight" : 1680,
+		"secondsFromVsyncToPhotons" : 0.01111111,
+		"displayFrequency" : 90.0
+	}
+}
 		</pre>
 	</li>
 	<li>Save and close default.vrsettings and restart SteamVR.</li>
