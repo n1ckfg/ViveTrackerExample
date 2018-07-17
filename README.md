@@ -8,8 +8,7 @@
 		<pre>
 "requireHmd" : false
 "forcedDriver" : "null"
-"activateMultipleDrivers" : true
-		</pre>
+"activateMultipleDrivers" : true</pre>
 	</li>
 	<li>
 		Then add the following to the end (don't forget the comma on the preceding line!):
@@ -29,8 +28,7 @@
 		"secondsFromVsyncToPhotons" : 0.01111111,
 		"displayFrequency" : 90.0
 	}
-}
-		</pre>
+}</pre>
 	</li>
 	<li>Save and close default.vrsettings and restart SteamVR.</li>
 	<li>Connect the headset and controllers to test that they still work.</li>
@@ -41,7 +39,7 @@
 	<li>You should now be able to start SteamVR and use the tracker.</li>
 </ol>
 
-<img src="./docs/images/tracker_along.png"><br>
+<img src="./docs/images/tracker_succeed.png"><br>
 
 More info:<br>
 https://www.roadtovr.com/how-to-use-the-htc-vive-tracker-without-a-vive-headset/<br>
