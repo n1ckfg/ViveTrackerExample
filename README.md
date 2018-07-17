@@ -1,7 +1,7 @@
 **Use the Vive Tracker without a headset:**
 <ol>
 	<li>Using the tracker alone is a beta feature of SteamVR. In Steam, right-click SteamVR in your library and enable Beta mode.</li>
-	<li>Disconnect the headset and link box, turn off the controllers, and connect the tracker dongle.</li>
+	<li>Disconnect both the headset and link box, turn off the controllers, and connect the tracker dongle.</li>
 	<li>Restart SteamVR and pair the tracker to the dongle.</li>
 	<li>Once you're sure the tracker is paired to its own dongle, reconnect the link box (it controls the Lighthouses).
 	<li>In your file manager, go to the global SteamVR settings file:<br>
@@ -25,10 +25,10 @@
 "enable" : true,</pre>
 	</li>
 	<li>Restart SteamVR.</li>
-	<li>If SteamVR complains about Room Setup, go to:<br>
+	<li>If SteamVR complains about needing to rerun Room Setup, go to:<br>
 	<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i></li>
 	<li>Make any harmless change to the file (like adding a trailing space), then save it.</li>
-	<li>If everything's correct, the SteamVR panel should no longer say "Not Ready" when the tracker alone is connected.</li>
+	<li>If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
 	<li>You should now be able to start SteamVR and use the tracker.</li>
 </ol>
 
