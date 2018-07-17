@@ -1,4 +1,4 @@
-*To use the Vive Tracker without a headset:*
+***To use the Vive Tracker without a headset:***
 <ol>
 	<li>Using the tracker alone is a beta feature of SteamVR. In Steam, right-click SteamVR in your library and enable Beta mode.</li>
 	<li>Disconnect the headset and link box, turn off the controllers, and connect the tracker dongle.</li>
