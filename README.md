@@ -18,23 +18,25 @@
 		<pre>
 "enable" : true,</pre>
 	</li>
-	<li>Now restart SteamVR. If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
+	<li>
+		Now restart SteamVR. If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected:
+		<table>
+			<tr>
+		   		<th><b>Good ending:</b></th>
+		   		<th><b>Bad ending:</b></th>
+		 	</tr>
+			<tr>
+				<td>
+					<img src="./docs/images/tracker_good.png">
+				</td>
+				<td>
+					<img src="./docs/images/tracker_bad.png">
+				</td>
+			</tr>
+		</table>
+	</li>
+	<li>Now that you're set up, switch between headset or tracker mode by plugging in or removing the headset and restarting SteamVR.</li>
 </ol>
-
-<table>
-	<tr>
-   		<th><b>Good ending:</b></th>
-   		<th><b>Bad ending:</b></th>
- 	</tr>
-	<tr>
-		<td>
-			<img src="./docs/images/tracker_good.png">
-		</td>
-		<td>
-			<img src="./docs/images/tracker_bad.png">
-		</td>
-	</tr>
-</table>
 
 **Optional**
 <ol>
