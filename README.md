@@ -32,6 +32,10 @@
 
 <table border=0>
 	<tr>
+   		<th><b>Good ending:</b</th>
+   		<th><b>Bad ending:</b</th>
+ 	</tr>
+	<tr>
 		<td>
 			<b>Good ending:</b><br>
 			<img src="./docs/images/tracker_good.png">
