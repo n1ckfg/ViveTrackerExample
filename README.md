@@ -9,12 +9,7 @@
 		Back up the global default.vrsettings, then open it in a text editor and set the following:
 		<pre>
 "requireHmd" : false,
-"forcedDriver" : "null",
 "activateMultipleDrivers" : true,</pre>
-	</li>
-	<li><b>Note: when you want to restore normal operation of your headset, change the following:</b>
-		<pre>
-"forcedDriver": "",</pre>
 	</li>
 	<li>Then, in your file manager, go to the null driver settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings</i></li>
@@ -39,10 +34,19 @@ Bad ending:<br>
 		<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i><br>
 		Make any harmless change to the file (like adding a space at the end), then save it.
 	</li>
+	<li>
+		If you want to disable the headset entirely, change the following in global settings:
+		<pre>
+"forcedDriver" : "null",</pre>
+	</li>
+	<li>To restore normal operation of your headset, change it back:
+		<pre>
+"forcedDriver": "",</pre>
+	</li>
 	<li>If you're still having trouble, try the current beta of SteamVR. In Steam, right-click SteamVR in your library and enable Beta mode.</li>
 </ol>
 
-**More info:**
+**More info:**<br>
 https://www.roadtovr.com/how-to-use-the-htc-vive-tracker-without-a-vive-headset<br>
 http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd<br>
 https://www.reddit.com/r/Vive/comments/6uo053/how_to_use_steamvr_tracked_devices_without_a_hmd<br>
