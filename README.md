@@ -2,7 +2,7 @@
 <ol>
 	<li>Disconnect both the headset and link box, turn off the controllers, and connect the tracker dongle.</li>
 	<li>Restart SteamVR and pair the tracker to the dongle.</li>
-	<li>Once you're sure the tracker is paired to its own dongle, reconnect the link box (it controls the Lighthouses).
+	<li>Once you're sure the tracker is paired to its own dongle, reconnect just the link box (it controls the Lighthouses).
 	<li>In your file manager, go to the global SteamVR settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings</i></li>
 	<li>
@@ -57,7 +57,7 @@
 		<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i><br>
 		Make any harmless change to the file (like adding a space at the end), then save it.
 	</li>
-	<li>If you're still having trouble, try the current beta of SteamVR. In Steam, right-click SteamVR in your library and enable Beta mode.</li>
+	<li>If you're still having problems, try the current beta of SteamVR. In Steam, right-click SteamVR in your library and enable Beta mode.</li>
 </ol>
 
 **More info:**<br>
@@ -69,3 +69,4 @@ https://developer.valvesoftware.com/wiki/SteamVR/steamvr.vrsettings<br>
 https://steamcommunity.com/app/358720/discussions/0/485624149150957321<br>
 https://www.vive.com/eu/support/vive/category_howto/optin-to-steamvr-beta.html<br>
 https://www.reddit.com/r/Vive/comments/4ly634/room_setup_files_location_steamvr<br>
+https://www.reddit.com/r/Vive/comments/6n374w/bluetooth_question<br>
