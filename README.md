@@ -11,15 +11,6 @@
 "requireHmd" : false,
 "activateMultipleDrivers" : true,</pre>
 	</li>
-	<li>
-		If you want to disable the headset entirely, also change the following in global settings:
-		<pre>
-"forcedDriver" : "null",</pre>
-	</li>
-	<li>To restore normal operation of your headset later, change it back:
-		<pre>
-"forcedDriver": "",</pre>
-	</li>	
 	<li>Then, in your file manager, go to the null driver settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings</i></li>
 	<li>
@@ -27,7 +18,16 @@
 		<pre>
 "enable" : true,</pre>
 	</li>
-	<li>Restart SteamVR. If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
+	<li>
+		If you want to disable the headset entirely, also change the following in global settings:
+		<pre>
+"forcedDriver" : "null",</pre>
+	</li>
+	<li>Or, to restore normal operation of your headset later, change it back:
+		<pre>
+"forcedDriver": "",</pre>
+	</li>	
+	<li>Now restart SteamVR. If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
 </ol>
 
 Good ending:<br>
