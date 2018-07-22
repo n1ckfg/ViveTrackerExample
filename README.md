@@ -11,6 +11,15 @@
 "requireHmd" : false,
 "activateMultipleDrivers" : true,</pre>
 	</li>
+	<li>
+		If you want to disable the headset entirely, also change the following in global settings:
+		<pre>
+"forcedDriver" : "null",</pre>
+	</li>
+	<li>To restore normal operation of your headset later, change it back:
+		<pre>
+"forcedDriver": "",</pre>
+	</li>	
 	<li>Then, in your file manager, go to the null driver settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings</i></li>
 	<li>
@@ -28,15 +37,6 @@ Bad ending:<br>
 
 **Troubleshooting:**
 <ol>
-	<li>
-		If you want to disable the headset entirely, change the following in global settings:
-		<pre>
-"forcedDriver" : "null",</pre>
-	</li>
-	<li>To restore normal operation of your headset, change it back:
-		<pre>
-"forcedDriver": "",</pre>
-	</li>
 	<li>If SteamVR complains about needing to rerun Room Setup, try restarting it again and see if the warning goes away.
 	<li>
 		If SteamVR <i>keeps</i> complaining about Room Setup, go to:<br>
