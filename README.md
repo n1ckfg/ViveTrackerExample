@@ -12,6 +12,10 @@
 "forcedDriver" : "null",
 "activateMultipleDrivers" : true,</pre>
 	</li>
+	<li><b>Note: when you want to restore normal operation of your headset, change the following:</b>
+		<pre>
+"forcedDriver": "",</pre>
+	</li>
 	<li>Then, in your file manager, go to the null driver settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings</i></li>
 	<li>
