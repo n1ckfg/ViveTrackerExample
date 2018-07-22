@@ -1,8 +1,8 @@
 **Use the Vive Tracker without a headset:**
 <ol>
 	<li>Disconnect both the headset and link box, turn off the controllers, and connect the tracker dongle.</li>
-	<li>Restart SteamVR and pair the tracker to the dongle.</li>
-	<li>Once you're sure the tracker is paired to its own dongle, reconnect just the link box (it controls the Lighthouses).
+	<li>Restart SteamVR and pair the tracker to its own dongle.</li>
+	<li>Once you're sure the tracker is paired to the dongle, reconnect just the link box (it controls the Lighthouses).
 	<li>In your file manager, go to the global SteamVR settings file:<br>
 	<i>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings</i></li>
 	<li>
