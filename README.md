@@ -61,12 +61,12 @@
 </ol>
 
 **More info:**<br>
-https://www.roadtovr.com/how-to-use-the-htc-vive-tracker-without-a-vive-headset<br>
-http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd<br>
-https://www.reddit.com/r/Vive/comments/6uo053/how_to_use_steamvr_tracked_devices_without_a_hmd<br>
-https://steamcommunity.com/app/358720/discussions/0/485624149150957321/#c1290690926862315884<br>
 https://developer.valvesoftware.com/wiki/SteamVR/steamvr.vrsettings<br>
+http://pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd<br>
+https://reddit.com/r/Vive/comments/6uo053/how_to_use_steamvr_tracked_devices_without_a_hmd<br>
+https://reddit.com/r/Vive/comments/4ly634/room_setup_files_location_steamvr<br>
+https://reddit.com/r/Vive/comments/6n374w/bluetooth_question<br>
+https://roadtovr.com/how-to-use-the-htc-vive-tracker-without-a-vive-headset<br>
+https://steamcommunity.com/app/358720/discussions/0/485624149150957321/#c1290690926862315884<br>
 https://steamcommunity.com/app/358720/discussions/0/485624149150957321<br>
-https://www.vive.com/eu/support/vive/category_howto/optin-to-steamvr-beta.html<br>
-https://www.reddit.com/r/Vive/comments/4ly634/room_setup_files_location_steamvr<br>
-https://www.reddit.com/r/Vive/comments/6n374w/bluetooth_question<br>
+https://vive.com/eu/support/vive/category_howto/optin-to-steamvr-beta.html<br> 
