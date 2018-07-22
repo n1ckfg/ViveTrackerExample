@@ -30,7 +30,7 @@
 	<li>Now restart SteamVR. If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
 </ol>
 
-<table border=0>
+<table>
 	<tr>
    		<th><b>Good ending:</b></th>
    		<th><b>Bad ending:</b></th>
