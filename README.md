@@ -28,12 +28,6 @@ Bad ending:<br>
 
 **Troubleshooting:**
 <ol>
-	<li>If SteamVR complains about needing to rerun Room Setup, try restarting it again and see if the warning goes away.
-	<li>
-		If SteamVR <i>keeps</i> complaining about Room Setup, go to:<br>
-		<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i><br>
-		Make any harmless change to the file (like adding a space at the end), then save it.
-	</li>
 	<li>
 		If you want to disable the headset entirely, change the following in global settings:
 		<pre>
@@ -42,6 +36,12 @@ Bad ending:<br>
 	<li>To restore normal operation of your headset, change it back:
 		<pre>
 "forcedDriver": "",</pre>
+	</li>
+	<li>If SteamVR complains about needing to rerun Room Setup, try restarting it again and see if the warning goes away.
+	<li>
+		If SteamVR <i>keeps</i> complaining about Room Setup, go to:<br>
+		<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i><br>
+		Make any harmless change to the file (like adding a space at the end), then save it.
 	</li>
 	<li>If you're still having trouble, try the current beta of SteamVR. In Steam, right-click SteamVR in your library and enable Beta mode.</li>
 </ol>
