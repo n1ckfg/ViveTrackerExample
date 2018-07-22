@@ -18,15 +18,6 @@
 		<pre>
 "enable" : true,</pre>
 	</li>
-	<li>
-		If you want to disable the headset entirely, also change the following in global settings:
-		<pre>
-"forcedDriver" : "null",</pre>
-	</li>
-	<li>Or, to restore normal operation of your headset later, change it back:
-		<pre>
-"forcedDriver": "",</pre>
-	</li>	
 	<li>Now restart SteamVR. If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
 </ol>
 
@@ -44,6 +35,19 @@
 		</td>
 	</tr>
 </table>
+
+**Optional**
+<ol>
+	<li>
+		If you want to disable the headset entirely, also change the following in global settings:
+		<pre>
+"forcedDriver" : "null",</pre>
+	</li>
+	<li>Or, to restore normal operation of your headset later, change it back:
+		<pre>
+"forcedDriver": "",</pre>
+	</li>
+</ol>
 
 **Troubleshooting:**
 <ol>
