@@ -25,7 +25,6 @@
 	<i>C:\Program Files (x86)\Steam\config\chaperone_info.vrchap</i></li>
 	<li>Make any harmless change to the file (like adding a space at the end), then save it.</li>
 	<li>If everything's correct, the SteamVR panel should say "Ready" when the tracker alone is connected.</li>
-	<li>You should now be able to start SteamVR and use the tracker.</li>
 </ol>
 
 Good ending:<br>
