@@ -35,7 +35,7 @@
 			</tr>
 		</table>
 	</li>
-	<li>Now that you're set up, switch between headset or tracker mode by plugging in or removing the headset and restarting SteamVR.</li>
+	<li>Now that you're set up, switch between headset and tracker mode by plugging in or removing the headset (leaving the link box connected) and restarting SteamVR.</li>
 </ol>
 
 **Optional**
