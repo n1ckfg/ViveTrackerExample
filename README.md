@@ -1,5 +1,6 @@
 **Use the Vive Tracker without a headset:**
 <ol>
+	<li>If you haven't already, use the headset and controllers to run Room Setup.</li>
 	<li>Disconnect both the headset and link box, turn off the controllers, and connect the tracker dongle.</li>
 	<li>Restart SteamVR and pair the tracker to its own dongle.</li>
 	<li>Once you're sure the tracker is paired to the dongle, reconnect just the link box (it controls the Lighthouses).
