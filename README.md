@@ -55,9 +55,9 @@
 **Troubleshooting:**
 <ol>
 	<li>
-		If you have trouble running Room Setup after performing these steps, try temporarily changing this global setting:
+		If you have trouble running Room Setup after performing these steps, try temporarily changing back this global setting:
 		<pre>
-"requireHmd" : false,</pre>	
+"requireHmd" : true,</pre>	
 	</li>
 	<li>If SteamVR complains about needing to rerun Room Setup, try restarting it again and see if the warning goes away.
 	<li>
